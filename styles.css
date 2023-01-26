@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+.pole{
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+.figura{
+    height: 80px;
+}
+.bp{
+    background-color:  #633423;
+}
+.cp{
+    background-color:  #C89E6A;
+}
+#szachownica{
+    min-width: 676px;
+} 
